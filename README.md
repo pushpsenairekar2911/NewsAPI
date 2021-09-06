@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/1.jpg">
+<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/1.png">
 
 
 
@@ -8,7 +8,7 @@
 This simple app allows users to browse latest trending news from India. 
 
 
-<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/2.jpg">
+<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/2.png">
 
 
 
