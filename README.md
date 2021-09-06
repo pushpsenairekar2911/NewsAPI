@@ -27,6 +27,6 @@ To run the app, kindly follow the below steps:
 
 # Assets
 
-Kindly, click here to [watch demo](https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Video/walrus-demo.mov)
+Kindly, click here to [watch demo.](https://github.com/pushpsenairekar2911/NewsAPI/raw/main/Assets/Video/walrus-demo.mov)
 
 
