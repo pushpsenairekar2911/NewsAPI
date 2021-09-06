@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/1.png">
+<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/1.jpg">
 
 
 
@@ -8,7 +8,7 @@
 This simple app allows users to browse latest trending news from India. 
 
 
-<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/2.png">
+<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/2.jpg">
 
 
 
@@ -27,6 +27,6 @@ To run the app, kindly follow the below steps:
 
 # Assets
 
-Kindly, click here to [watch demo with google deive.]()
+Kindly, click here to [watch demo](https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Video/walrus-demo.mov)
 
 
